@@ -1,4 +1,4 @@
-# Fudamentos
+# Fundamentos
 
 Treinamento pensamento computacional
 
